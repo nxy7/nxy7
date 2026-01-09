@@ -1,5 +1,4 @@
-Backend developer (although I'm fine with FE work too). I'm comfortable using many languages, TS, Go, Rust and recently I'm
-(re)discovering the joy of Elixir.
+Fullstack DEV. As a programming language enthusiast I've worked with many different stacks.
 
 ## Dotfiles
 I'm storing configuration I use for new systems in github repo: https://github.com/nxy7/dotfiles
